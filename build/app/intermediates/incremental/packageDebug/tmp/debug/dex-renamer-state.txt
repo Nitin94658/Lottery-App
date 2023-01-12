@@ -1,0 +1,4 @@
+#Wed Dec 28 10:56:10 IST 2022
+base.0=C\:\\Users\\Nitin Garg\\StudioProjects\\lottery_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
